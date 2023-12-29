@@ -7,7 +7,7 @@ This is an experimental repository, breaking changes are made often.
 
 ## Screenshot
 
-![Screenshot1](docs/screenshot.jpg "Newb X Legacy 15b2, MCBE 1.20.12")
+![Screenshot1](screenshot.jpg "Newb X Legacy 15b2, MCBE 1.20.12")
 
 ## Android
 [Download](https://github.com/MKGamer345/newb-x-utitaretion/actions/runs/7356508661/artifacts/1139223662)
