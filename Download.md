@@ -27,9 +27,7 @@ This is an experimental repository, breaking changes are made often.
 
 ## Screenshot
 
-![Screenshot2](Super-Fancy_Newb-Shader.jpg
-
- "Newb X Legacy 15b2, MCBE 1.20.12")
+![Screenshot2](Super-Fancy_Newb-Shader.jpg)
 
 ## Android
 [Download](https://github.com/MKGamer345/newb-x-utitaretion/actions/runs/7361548136/artifacts/1139972732)
