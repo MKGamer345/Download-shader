@@ -30,11 +30,11 @@ This is an experimental repository, breaking changes are made often.
 ![Screenshot2](Super-Fancy_Newb-Shader.jpg)
 
 ## Android
-[Download](https://github.com/MKGamer345/newb-x-utitaretion/actions/runs/7361548136/artifacts/1139972732)
+[Download](https://github.com/MKGamer345/Super-Fancy-Newb-shader/actions/runs/7437000191/artifacts/1152334429)
 
 ## IOS
-[Download](https://github.com/MKGamer345/newb-x-utitaretion/actions/runs/7361548136/artifacts/1139972733)
+[Download](https://github.com/MKGamer345/Super-Fancy-Newb-shader/actions/runs/7437000191/artifacts/1152334431)
 
 ## Windows
-[Download](https://github.com/MKGamer345/newb-x-utitaretion/actions/runs/7361548136/artifacts/1139972734)
+[Download](https://github.com/MKGamer345/Super-Fancy-Newb-shader/actions/runs/7437000191/artifacts/1152334432)
 
