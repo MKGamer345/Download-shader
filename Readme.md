@@ -127,7 +127,6 @@ This is an experimental repository, breaking changes are made often.
 ## Screenshot
 
 ![Screenshot2](Super-Fancy_Newb-Shader.jpg
-
  "Newb X Legacy 15b2, MCBE 1.20.12")
 
 ## Downloads
