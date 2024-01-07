@@ -11,7 +11,7 @@ This is an experimental repository, breaking changes are made often.
 
 ## Downloads
 
-[download shader web](https://github.com/MKGamer345/Download-shader/blob/main/Download.md#newb-x-utitaretion)
+[download](https://github.com/MKGamer345/Download-shader/blob/main/Download.md#newb-x-utitaretion)
 
 ## Installation
 
@@ -67,7 +67,7 @@ This is an experimental repository, breaking changes are made often.
 
 ## Downloads
 
-[download shader web](https://github.com/MKGamer345/Download-shader/blob/main/Download.md)
+[download](https://github.com/MKGamer345/Download-shader/blob/main/Download.md)
 
 ## Installation
 
